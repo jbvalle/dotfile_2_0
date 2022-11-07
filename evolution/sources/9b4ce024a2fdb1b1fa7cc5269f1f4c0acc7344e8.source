@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=jbvalle.jv@gmail.com
+Enabled=true
+Parent=73168ea2c754e104980bf689cd67dbd72a960d43
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=224af47af286c36494f602423290d464678bf16b
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=jbvalle.jv@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
